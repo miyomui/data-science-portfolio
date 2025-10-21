@@ -1,5 +1,4 @@
 # 👋 Welcome to my **Data Science Portfolio**
-### Collection of projects, certificates, and case studies showcasing my analytical and technical skills.
 
 
 ## Resume
