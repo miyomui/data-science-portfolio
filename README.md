@@ -1,4 +1,4 @@
-# 👋 Welcome to my **Data Science Portfolio**
+# 👋 Welcome to my **Portfolio**
 
 
 ## Resume
