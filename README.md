@@ -3,7 +3,6 @@
 ## Resume
 📎 [Download Resume (PDF)](./resume/Resume.pdf)
 
----
 
 ---
 
