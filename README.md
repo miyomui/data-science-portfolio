@@ -7,7 +7,8 @@
 ---
 
 <h3><b><center> Featured Projects </center></b></h3>
-### 🇹🇭 Thai Version (เวอร์ชันภาษาไทย)
+<h3><b><center> 🇹🇭 Thai Version (เวอร์ชันภาษาไทย </center></b></h3>
+
 | โปรเจกต์ | คำอธิบาย | เครื่องมือ | ลิงก์ |
 | :--- | :--- | :--- | :--- |
 | **แดชบอร์ดวิเคราะห์ข้อมูลตั๋วรถตู้ (Mini Hackathon)** | โปรเจกต์ Business Intelligence วิเคราะห์ข้อมูลการจองตั๋วรถตู้เพื่อค้นหาจุดรั่วไหลของรายได้และเทรนด์ลูกค้า สร้าง **Interactive Power BI Dashboard** 4 มุมมอง: ภาพรวมผู้บริหาร, เจาะลึกยอดขาย, สุขภาพการดำเนินงาน (ติดตามยอดจองที่ค้างชำระ), และข้อมูลลูกค้า ใช้ `Python` เตรียมข้อมูล, เขียน `SQL` และ `DAX` ซับซ้อนเพื่อคำนวณ KPI แบบไดนามิก (เช่น อัตราการจองล้มเหลว, รายได้ที่อาจสูญเสีย) พร้อมออกแบบ Data Model แบบ Star Schema | `Power BI` (DAX), `SQL`, `Python` (Pandas), `Git` | [🔗 ดูโปรเจกต์](https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket.git) |
@@ -16,6 +17,7 @@
 ---
 
 <h3><b><center> 🇬🇧 English Version </center></b></h3>
+
 | Project | Description | Tools | Link |
 | :--- | :--- | :--- | :--- |
 | **Thai Van Ticket Dashboard (Mini Hackathon)** | End-to-end BI project analyzing van ticket booking data to identify revenue leaks and customer trends. Built an interactive **Power BI dashboard** with 4 key views: Executive Summary, Sales Deep Dive, Operational Health (tracking unpaid bookings), and Customer Insights. Utilized `Python` for data prep, complex `SQL` queries and `DAX` measures for dynamic KPIs (e.g., Failure Rate, Potential Lost Revenue), implementing a Star Schema data model. | `Power BI` (DAX), `SQL`, `Python` (Pandas), `Git` | [🔗 View Project](https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket.git) |
