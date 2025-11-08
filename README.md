@@ -1,7 +1,7 @@
 # 👋 Welcome to my **Portfolio**
 
 ## Resume
-📎 [Download Resume (PDF)](./resume/Resume.pdf)
+📎 [Download Resume (PDF)](./resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
 
 
 ---
