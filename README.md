@@ -1,6 +1,7 @@
 # 👋 Welcome to my **Portfolio**
 
 <h3><b><center> Resume </center></b></h3>
+
 📎 [Download Resume (PDF)](./resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
 
 
@@ -22,4 +23,4 @@
 | :--- | :--- | :--- | :--- |
 | **Thai Van Ticket Dashboard (Mini Hackathon)** | End-to-end BI project analyzing van ticket booking data to identify revenue leaks and customer trends. Built an interactive **Power BI dashboard** with 4 key views: Executive Summary, Sales Deep Dive, Operational Health (tracking unpaid bookings), and Customer Insights. Utilized `Python` for data prep, complex `SQL` queries and `DAX` measures for dynamic KPIs (e.g., Failure Rate, Potential Lost Revenue), implementing a Star Schema data model. | `Power BI` (DAX), `SQL`, `Python` (Pandas), `Git` | [🔗 View Project](https://github.com/miyomui/Mini-Hackathon-Thai-Van-Ticket.git) |
 | **Cement Sales Analysis & ETL Pipeline** | End-to-end data project analyzing cement factory sales and production data (2010-2022), inspired by SCG. Features an automated **ETL pipeline** built with Python (`Pandas`, `SQLite`) for data ingestion, cleaning, and database loading (`src/`). Includes Exploratory Data Analysis (EDA), Key Performance Indicator (KPI) tracking via `SQL`, cost driver analysis using Ridge Regression (`Scikit-learn`), and 12-month sales forecasting with `Prophet`. Insights on efficiency, demand patterns, and economic impacts (GDP) are visualized in a `Power BI` dashboard. | `Python` (Pandas, Scikit-learn, Prophet, Matplotlib, SQLite3), `SQL`, `Power BI`, `Git` | [🔗 View Project](https://github.com/miyomui/cement-sales-analysis) |
----
+
