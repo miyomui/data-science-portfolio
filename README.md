@@ -2,7 +2,7 @@
 
 <h3><b><center> Resume </center></b></h3>
 
-📎 [Download Resume (PDF)](./resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
+📎 [Resume (PDF)](./resume/Resume_Lalitawadee-Wongkhun_Bangkok-University.pdf)
 
 
 ---
